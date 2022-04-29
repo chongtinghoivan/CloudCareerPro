@@ -1,7 +1,9 @@
 # CloudCareerPro
 How to accelerate your cloud career transition in 100 Days
 
-### Day 1 - 29 Apr 2022
+## This README recorded the journey of how I create the CloudCareerPro course.
+
+### Day 1 (29 Apr 2022)
 1. Searched the traffic on Google Trends and select whether to use cloudcareerpro.com or cloudtransitionpro.com as domain name 
 2. Purchased the domain cloudcareerpro.com via Cloudflare 
 3. Set up business email routing ivan@cloudcareerpro.com via Cloudflare 
