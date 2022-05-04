@@ -37,7 +37,12 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 5 (3 May 2022)
 1. Posted the belated ["Day 100 of 5th Round of 100DaysOfCloud"](https://www.linkedin.com/posts/chongtingho_100daysofcloud-100daysofcloud-100daysofcloud-activity-6927123664794517506-tg6F?utm_source=linkedin_share&utm_medium=member_desktop_web) post to LinkedIn personal profile 
-2. Posted the 1st post (E-book) of [CloudCareerPRO LinkedIn Page] (https://www.linkedin.com/company/cloudcareerpro), designed using [Canva Pro](https://partner.canva.com/c/3433801/647168/10068)
-3. Studied how to use LinkedIn Sales Navigator to help promote the [CloudCareerPRO LinkedIn Page] (https://www.linkedin.com/company/cloudcareerpro)
-4. Drafted course outline
+2. Posted the 1st post (E-book) of [CloudCareerPRO LinkedIn Page](https://www.linkedin.com/company/cloudcareerpro), designed using [Canva Pro](https://partner.canva.com/c/3433801/647168/10068)
+3. Studied how to use LinkedIn Sales Navigator to help promote the [CloudCareerPRO LinkedIn Page](https://www.linkedin.com/company/cloudcareerpro)
+4. Got 7 new leads (A total of 7 leads)
+
+### Day 6 (4 May 2022)
+1. Got 6 new leads (A total of 13 leads)
+2. Published my E-book ["100 Days of Cloud: 8 Tools and 12 Tips For You"](https://www.amazon.com/dp/B09ZHKY9WC/ref=sr_1_1?crid=11RWFBO3Z5R5P&keywords=100+Days+of+Cloud&qid=1651650295&s=digital-text&sprefix=100+days+of+cloud%2Cdigital-text%2C755&sr=1-1) to Kindle 
+3. Started drafting course outline
 
