@@ -43,6 +43,12 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 6 (4 May 2022)
 1. Got 6 new leads (A total of 13 leads)
-2. Published my E-book ["100 Days of Cloud: 8 Tools and 12 Tips For You"](https://www.amazon.com/dp/B09ZHKY9WC/ref=sr_1_1?crid=11RWFBO3Z5R5P&keywords=100+Days+of+Cloud&qid=1651650295&s=digital-text&sprefix=100+days+of+cloud%2Cdigital-text%2C755&sr=1-1) to Kindle 
+2. Published my E-book ["100 Days of Cloud: 8 Tools And 12 Tips For You"](https://www.amazon.com/dp/B09ZHKY9WC/ref=sr_1_1?crid=11RWFBO3Z5R5P&keywords=100+Days+of+Cloud&qid=1651650295&s=digital-text&sprefix=100+days+of+cloud%2Cdigital-text%2C755&sr=1-1) to Kindle 
 3. Started drafting course outline
 
+### Day 7 (5 May 2022)
+1. Got 13 new leads (A total of 31 leads)
+2. Spotted typo and republished my E-book ["100 Days of Cloud: 8 Tools And 12 Tips For You"](https://www.amazon.com/dp/B09ZHKY9WC/ref=sr_1_1?crid=11RWFBO3Z5R5P&keywords=100+Days+of+Cloud&qid=1651650295&s=digital-text&sprefix=100+days+of+cloud%2Cdigital-text%2C755&sr=1-1) to Kindle 
+3. Created a post using [Canva Pro](https://partner.canva.com/c/3433801/647168/10068), promoted to my Instagram and Facebook; Updated my Linktree info in Instagram
+4. Renamed the title of my E-book landing page from "Squeeze Page" to "EBook Download" using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)
+5. Used around 40 credits offered by LinkedIn Sales Navigator to send invitation to [CloudCareerPRO LinkedIn Page](https://www.linkedin.com/company/cloudcareerpro). Now there are 30 followers in total.
