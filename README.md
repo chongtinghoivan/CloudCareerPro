@@ -52,3 +52,11 @@ How to accelerate your cloud career transition in 100 Days
 3. Created a post using [Canva Pro](https://partner.canva.com/c/3433801/647168/10068), promoted to my Instagram and Facebook; Updated my Linktree info in Instagram
 4. Renamed the title of my E-book landing page from "Squeeze Page" to "EBook Download" using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)
 5. Used around 40 credits offered by LinkedIn Sales Navigator to send invitation to [CloudCareerPRO LinkedIn Page](https://www.linkedin.com/company/cloudcareerpro). Now there are 30 followers in total.
+
+### Day 8 (6 May 2022)
+1. Got 6 new leads (A total of 37 leads) 
+2. No progress on CloudCareerPRO due to work and scheduled harmonica exchange session with [KEPLER](https://www.keplerhk.com/)
+
+### Day 9 (7 May 2022)
+1. Got 5 new leads (A total of 42 leads)
+2. No progress on CloudCareerPRO due to harmonica teaching, rehearsal with King's Harmonica Quintet and family dinner.
