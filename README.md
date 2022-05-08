@@ -64,3 +64,4 @@ How to accelerate your cloud career transition in 100 Days
 ### Day 10 (8 May 2022)
 1. Finished drafting course outline
 2. Happy Mother's Day!
+3. Got 3 new leads (A total of 45 leads)
