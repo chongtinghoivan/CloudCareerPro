@@ -60,3 +60,7 @@ How to accelerate your cloud career transition in 100 Days
 ### Day 9 (7 May 2022)
 1. Got 5 new leads (A total of 42 leads)
 2. No progress on CloudCareerPRO due to harmonica teaching, rehearsal with King's Harmonica Quintet and family dinner.
+
+### Day 10 (8 May 2022)
+1. Finished drafting course outline
+2. Happy Mother's Day!
