@@ -65,3 +65,11 @@ How to accelerate your cloud career transition in 100 Days
 1. Finished drafting course outline
 2. Happy Mother's Day!
 3. Got 3 new leads (A total of 45 leads)
+
+### Day 11 (9 May 2022)
+1. Prepared video and posted to LinkedIn and instagram
+2. Got 3 new leads (A total of 48 leads)
+
+### Day 12 (10 May 2022)
+1. Finished Chapter "From Harmonica Teacher to Cloud Solutions Architect" of Section "About Me"
+
