@@ -71,5 +71,8 @@ How to accelerate your cloud career transition in 100 Days
 2. Got 3 new leads (A total of 48 leads)
 
 ### Day 12 (10 May 2022)
-1. Finished Chapter "From Harmonica Teacher to Cloud Solutions Architect" of Section "About Me"
+1. Finished the Chapter "From Harmonica Teacher to Cloud Solutions Architect" under the Section "About Me"
+2. Finished the Chapter "My 5 Rounds of #100DaysOfCloud" under the Section "About Me"
+3. Finished the Chapter "Connect with Me" under the Section "About Me"
+4. Finished all the Chapters of the Section "About Me"
 
