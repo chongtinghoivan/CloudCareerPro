@@ -75,4 +75,13 @@ How to accelerate your cloud career transition in 100 Days
 2. Finished the Chapter "My 5 Rounds of #100DaysOfCloud" under the Section "About Me"
 3. Finished the Chapter "Connect with Me" under the Section "About Me"
 4. Finished all the Chapters of the Section "About Me"
+5. Got 1 new lead (A total of 49 leads)
+
+### Day 13 (11 May 2022)
+1. Got 1 new lead (A total of 50 leads)
+2. Engaged by work and presentation at ZStack; No progress for CloudCareerPRO
+
+### Day 14 (12 May 2022)
+1. Got 1 new lead (A total of 51 leads)
+2. Finished the Chapter "LinkedIn Tip 1 - Set up Profile Picture" under the Section "How to enhance your profile for more job opportunities?"
 
