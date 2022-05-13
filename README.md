@@ -62,7 +62,7 @@ How to accelerate your cloud career transition in 100 Days
 2. No progress on CloudCareerPRO due to harmonica teaching, rehearsal with King's Harmonica Quintet and family dinner.
 
 ### Day 10 (8 May 2022)
-1. Finished drafting course outline
+1. Finished drafting the course outline of "100 Days Of Cloud Blueprint" 
 2. Happy Mother's Day!
 3. Got 3 new leads (A total of 45 leads)
 
@@ -85,3 +85,6 @@ How to accelerate your cloud career transition in 100 Days
 1. Got 1 new lead (A total of 51 leads)
 2. Finished the Chapter "LinkedIn Tip 1 - Set up Profile Picture" under the Section "How to enhance your profile for more job opportunities?"
 
+### Day 15 (13 May 2022)
+1. Edited the classroom setting; Decided the colour, logo and course image.
+2. Prepared a GIF for promotion of the course "100 Days Of Cloud Blueprint"
