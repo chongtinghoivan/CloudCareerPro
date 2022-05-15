@@ -88,3 +88,10 @@ How to accelerate your cloud career transition in 100 Days
 ### Day 15 (13 May 2022)
 1. Edited the classroom setting; Decided the colour, logo and course image.
 2. Prepared a GIF for promotion of the course "100 Days Of Cloud Blueprint"
+
+### Day 16 (14 May 2022)
+1. Learnt how to build a Discord community for CloudCareerPRO.
+2. Finished the text and design of course landing page.
+
+### Day 17 (15 May 2022)
+1. Finished the basic setup of the Discord community for CloudCareerPRO.
