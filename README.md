@@ -71,10 +71,10 @@ How to accelerate your cloud career transition in 100 Days
 2. Got 3 new leads (A total of 48 leads)
 
 ### Day 12 (10 May 2022)
-1. Finished the Chapter "From Harmonica Teacher to Cloud Solutions Architect" under the Section "About Me"
-2. Finished the Chapter "My 5 Rounds of #100DaysOfCloud" under the Section "About Me"
-3. Finished the Chapter "Connect with Me" under the Section "About Me"
-4. Finished all the Chapters of the Section "About Me"
+1. Finished the Chapter "From Harmonica Teacher to Cloud Solutions Architect" under the Lesson "About Me"
+2. Finished the Chapter "My 5 Rounds of #100DaysOfCloud" under the Lesson "About Me"
+3. Finished the Chapter "Connect with Me" under the Lesson "About Me"
+4. Finished all the Chapters of the Lesson "About Me"
 5. Got 1 new lead (A total of 49 leads)
 
 ### Day 13 (11 May 2022)
@@ -83,7 +83,7 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 14 (12 May 2022)
 1. Got 1 new lead (A total of 51 leads)
-2. Finished the Chapter "LinkedIn Tip 1 - Set up Profile Picture" under the Section "How to enhance your profile for more job opportunities?"
+2. Finished the Chapter "LinkedIn Tip 1 - Set up Profile Picture" under the Lesson "How to enhance your profile for more job opportunities?"
 
 ### Day 15 (13 May 2022)
 1. Edited the classroom setting; Decided the colour, logo and course image.
@@ -94,4 +94,14 @@ How to accelerate your cloud career transition in 100 Days
 2. Finished the text and design of course landing page.
 
 ### Day 17 (15 May 2022)
-1. Finished the basic setup of the Discord community for CloudCareerPRO.
+1. Finished the basic setup of the Discord community for CloudCareerPRO
+2. Modified the course image
+
+### Day 18 (16 May 2022)
+1. Finished the testing of the Discord server with 2 users for CloudCareerPRO
+2. Added a bot to the Discord server
+3. Learnt how to set up different roles and tested how to verify the "member" role of paid members
+4. Modified the thank you page after course payment settlement; Added the Discord invite link to the thank you page
+
+### Day 19 (17 May 2022)
+1. Enriched the Chapter "LinkedIn Tip 1 - Set up Profile Picture" under the Lesson "How to enhance your profile for more job opportunities?"
