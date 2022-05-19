@@ -105,3 +105,13 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 19 (17 May 2022)
 1. Enriched the Chapter "LinkedIn Tip 1 - Set up Profile Picture" under the Lesson "How to enhance your profile for more job opportunities?"
+
+### Day 20 (18 May 2022)
+1. Finished the Chapter "Recommended Platforms for Cloud Exam Practice Test" under the Lesson "How to best prepare for cloud certifications?"
+
+### Day 21 (19 May 2022)
+1. Finished the Chapter "Recommended Platforms for Gaining Hands-on Experience" under the Lesson "How to best prepare for cloud certifications?"
+2. Finished the Chapter "Recommended Platforms for Cloud Certifications Training" under the Lesson "How to best prepare for cloud certifications?"
+
+### Day 22 (20 May 2022) 
+1. Finished the Chapter "Make the Decision Earlier - Multi-cloud vs Single-cloud" under the Lesson "What I would have done differently if I had known all these tips?"
