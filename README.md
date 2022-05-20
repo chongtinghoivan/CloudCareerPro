@@ -115,3 +115,6 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 22 (20 May 2022) 
 1. Finished the Chapter "Make the Decision Earlier - Multi-cloud vs Single-cloud" under the Lesson "What I would have done differently if I had known all these tips?"
+2. Finished the Chapter "Avoid the Shiny Object Syndrome" under the Lesson "What I would have done differently if I had known all these tips?"
+3. Finished the Chapter "The Importance of Persistence and Showing Up" under the Lesson "What I would have done differently if I had known all these tips?"
+
