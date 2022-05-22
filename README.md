@@ -125,3 +125,5 @@ How to accelerate your cloud career transition in 100 Days
 1. Finished the Chapter "IBM" under the Lesson "How to get FREE vouchers from cloud vendors?"
 2. Finished the Chapter "Aviatrix" under the Lesson "How to get FREE vouchers from cloud vendors?"
 3. Finished the Chapter "Alibaba Cloud" under the Lesson "How to get FREE vouchers from cloud vendors?"
+4. Finished the Chapter "Microsoft" under the Lesson "How to get FREE vouchers from cloud vendors?"
+5. Finished the Chapter "AWS" under the Lesson "How to get FREE vouchers from cloud vendors?"
