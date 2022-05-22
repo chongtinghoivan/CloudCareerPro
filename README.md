@@ -127,3 +127,12 @@ How to accelerate your cloud career transition in 100 Days
 3. Finished the Chapter "Alibaba Cloud" under the Lesson "How to get FREE vouchers from cloud vendors?"
 4. Finished the Chapter "Microsoft" under the Lesson "How to get FREE vouchers from cloud vendors?"
 5. Finished the Chapter "AWS" under the Lesson "How to get FREE vouchers from cloud vendors?"
+6. Finished the Chapter "Job Searching with Right Target - Vendor vs Distributor vs System Integrator" under the Lesson "What I would have done differently if I had known all these tips?"
+7. Finished the Chapter "Re-prioritize Vendor Selection if Budget is TIGHT" under the Lesson "What I would have done differently if I had known all these tips?"
+
+### Day 25 (23 May 2022)
+1. Finished the Chapter "LinkedIn Tip 2 - Set up Banner Photo" under the Lesson "How to enhance your profile for more job opportunities?"
+2. Finished the Chapter "LinkedIn Tip 3 - Optimize the Headline" under the Lesson "How to enhance your profile for more job opportunities?"
+3. Finished the Chapter "Twitter Optimization" under the Lesson "How to enhance your profile for more job opportunities?"
+4. Finished the Chapter "GitHub" under the Lesson "How to enhance your profile for more job opportunities?"
+5. Launched the course!
