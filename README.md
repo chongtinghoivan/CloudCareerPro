@@ -118,3 +118,10 @@ How to accelerate your cloud career transition in 100 Days
 2. Finished the Chapter "Avoid the Shiny Object Syndrome" under the Lesson "What I would have done differently if I had known all these tips?"
 3. Finished the Chapter "The Importance of Persistence and Showing Up" under the Lesson "What I would have done differently if I had known all these tips?"
 
+### Day 23 (21 May 2022)
+1. Tested the drip content function of course materials and learnt the reason why some of the Chapter could not be shown in the prior setting
+
+### Day 24 (22 May 2022)
+1. Finished the Chapter "IBM" under the Lesson "How to get FREE vouchers from cloud vendors?"
+2. Finished the Chapter "Aviatrix" under the Lesson "How to get FREE vouchers from cloud vendors?"
+3. Finished the Chapter "Alibaba Cloud" under the Lesson "How to get FREE vouchers from cloud vendors?"
