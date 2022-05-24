@@ -135,4 +135,7 @@ How to accelerate your cloud career transition in 100 Days
 2. Finished the Chapter "LinkedIn Tip 3 - Optimize the Headline" under the Lesson "How to enhance your profile for more job opportunities?"
 3. Finished the Chapter "Twitter Optimization" under the Lesson "How to enhance your profile for more job opportunities?"
 4. Finished the Chapter "GitHub" under the Lesson "How to enhance your profile for more job opportunities?"
-5. Launched the course!
+5. Launched the course using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)!
+
+### Day 26 (24 May 2022)
+1. Made the first sale using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)!
