@@ -135,7 +135,23 @@ How to accelerate your cloud career transition in 100 Days
 2. Finished the Chapter "LinkedIn Tip 3 - Optimize the Headline" under the Lesson "How to enhance your profile for more job opportunities?"
 3. Finished the Chapter "Twitter Optimization" under the Lesson "How to enhance your profile for more job opportunities?"
 4. Finished the Chapter "GitHub" under the Lesson "How to enhance your profile for more job opportunities?"
-5. Launched the course using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)!
+5. Launched the course ["100 Days Of Cloud Blueprint"](https://www.cloudcareerpro.com/course) using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)!
 
 ### Day 26 (24 May 2022)
 1. Made the first sale using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)!
+2. Posted and shared my journey of this log in the [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) Facebook group
+
+### Day 27 (25 May 2022)
+1. Bought the lifetime deal of [Closerscopy](https://www.closerscopy.com/lifetime?ref=mxoo) and learnt how to use the AI tool to enhance copywriting
+2. Learnt how to use LinkedIn Sales Navigator to manage account list and lead list; Created an account list of schools
+3. Connected with the first course online course member of CloudCareerPRO's ["100 Days Of Cloud Blueprint"](https://www.cloudcareerpro.com/course) on LinkedIn. Found that he is my colleague in the same System Engineering department of my prior company Synnex! 
+
+### Day 28 (26 May 2022)
+1. Launched the campaign of giving away 100 FREE course access of ["100 Days Of Cloud Blueprint"](https://www.cloudcareerpro.com/course) to 100 Secondary School Principals; Promoted via LinkedIn personal post and personal Facebook account and asked for referral of School Principals that might be interested
+
+### Day 29 (27 May 2022)
+1. Last valid day of coupon code FIRST100
+2. Made use of my free trial and InMail quota (100) of LinkedIn Sales Navigator to send InMails and connection requests to School Principals to offer free access of CloudCareerPRO's ["100 Days Of Cloud Blueprint"](https://www.cloudcareerpro.com/course) with them. Sent around 40 InMail in total
+3. Got 2 acceptance of InMail from School Principals / Heads of School.
+4. Compiled a list of emails of Secondary School Principals in Hong Kong
+5. Explored how to use [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) or Mailchimp to spread the message via email to School Principals that are not yet on LinkedIn
