@@ -79,7 +79,7 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 13 (11 May 2022)
 1. Got 1 new lead (A total of 50 leads)
-2. Engaged by work and presentation at ZStack; No progress for CloudCareerPRO
+2. Engaged by work and presentation at ZStack; No progress for [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro)
 
 ### Day 14 (12 May 2022)
 1. Got 1 new lead (A total of 51 leads)
@@ -90,15 +90,15 @@ How to accelerate your cloud career transition in 100 Days
 2. Prepared a GIF for promotion of the course "100 Days Of Cloud Blueprint"
 
 ### Day 16 (14 May 2022)
-1. Learnt how to build a Discord community for CloudCareerPRO.
+1. Learnt how to build a Discord community for [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro).
 2. Finished the text and design of course landing page.
 
 ### Day 17 (15 May 2022)
-1. Finished the basic setup of the Discord community for CloudCareerPRO
+1. Finished the basic setup of the Discord community for [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro)
 2. Modified the course image
 
 ### Day 18 (16 May 2022)
-1. Finished the testing of the Discord server with 2 users for CloudCareerPRO
+1. Finished the testing of the Discord server with 2 users for [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro)
 2. Added a bot to the Discord server
 3. Learnt how to set up different roles and tested how to verify the "member" role of paid members
 4. Modified the thank you page after course payment settlement; Added the Discord invite link to the thank you page
@@ -154,4 +154,24 @@ How to accelerate your cloud career transition in 100 Days
 2. Made use of my free trial and InMail quota (100) of LinkedIn Sales Navigator to send InMails and connection requests to School Principals to offer free access of CloudCareerPRO's ["100 Days Of Cloud Blueprint"](https://www.cloudcareerpro.com/course) with them. Sent around 40 InMail in total
 3. Got 2 acceptance of InMail from School Principals / Heads of School.
 4. Compiled a list of emails of Secondary School Principals in Hong Kong
-5. Explored how to use [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) or Mailchimp to spread the message via email to School Principals that are not yet on LinkedIn
+5. Explored how to use [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) or Mailchimp to spread the message via email to School Principals that are not yet on LinkedIn. No conclusion could be drawn yet and more time is needed to explore on this.
+
+### Day 30 (28 May 2022)
+1. Set up a new coupon code 30DAY for celebration of the 30th day of CloudCareerPRO
+2. Researched on how to manage two tags, one for "EBook", one for "Course Purchase", under the free tier of [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895). Considering using the free tier of Mailchimp to manage those who have purchased the course to minimize monthly expense.
+
+### Day 31 (29 May 2022)
+1. Last day of LinkedIn Sales Navigator 1-month trial. Discovered that I could refer the 2-month free trail to more than 10 of my connections. 
+2. Shared LinkedIn Sales Navigator 2-month free trail to those (I guess around 30-40 in total) who have been supporting or inspiring me along my career development journey
+3. Created a LinkedIn post to promote the new coupon code 30DAY and share the news of CloudCareerPRO giving away 100 free course access to Secondary School Principals and Heads Of Schools.
+[https://www.linkedin.com/feed/update/urn:li:activity:6936230263949516800](https://www.linkedin.com/posts/chongtingho_cloudcareerpro-linkedin-activity-6936230263949516800-HjDa?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+### Day 32 (30 May 2022)
+1. Studied how to enable the affiliate program of [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro) using [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895)
+
+### Day 33 (31 May 2022)
+1. Successfully used the "Workflows" function of [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) and enabled the affiliate program of [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro)
+2. Sent an email to Systeme support to confirm the URL format of affiliate link; Wanted to confirm whether both of the following are going to work:
+https://www.cloudcareerpro.com/course?sa={affiliate_id}
+https://www.cloudcareerpro.com/course/?sa={affiliate_id}
+
