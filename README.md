@@ -171,7 +171,12 @@ How to accelerate your cloud career transition in 100 Days
 
 ### Day 33 (31 May 2022)
 1. Successfully used the "Workflows" function of [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) and enabled the affiliate program of [CloudCareerPRO](https://www.linkedin.com/company/cloudcareerpro)
-2. Sent an email to Systeme support to confirm the URL format of affiliate link; Wanted to confirm whether both of the following are going to work:
+2. Sent an email to [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) support team to confirm the URL format of affiliate link; Wanted to confirm whether both of the following are going to work:
 https://www.cloudcareerpro.com/course?sa={affiliate_id}
 https://www.cloudcareerpro.com/course/?sa={affiliate_id}
+
+### Day 34 (1 Jun 2022)
+1. Sent an email campaign via MailChimp to a list of 442 Hong Kong secondary school email contacts 
+2. Got the reply from [Systeme.io](https://systeme.io/?sa=sa002978446365ed4111b35cd3eadb82e8f7e7a895) support team, it's advised to use the following format: https://www.cloudcareerpro.com/course?sa={affiliate_id}
+
 
